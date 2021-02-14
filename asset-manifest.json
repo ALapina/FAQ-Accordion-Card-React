@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e7e80cf.chunk.css",
+    "main.js": "/static/js/main.efc0a4b4.chunk.js",
+    "main.js.map": "/static/js/main.efc0a4b4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7a62d769.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7a62d769.js.map",
+    "static/js/2.358e5108.chunk.js": "/static/js/2.358e5108.chunk.js",
+    "static/js/2.358e5108.chunk.js.map": "/static/js/2.358e5108.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8e7e80cf.chunk.css.map": "/static/css/main.8e7e80cf.chunk.css.map",
+    "static/js/2.358e5108.chunk.js.LICENSE.txt": "/static/js/2.358e5108.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/static/media/icon-arrow-down.852fa301.svg",
+    "static/media/illustration-box-desktop.ec1ba14b.svg": "/static/media/illustration-box-desktop.ec1ba14b.svg",
+    "static/media/illustration-woman-online-desktop.843eb114.svg": "/static/media/illustration-woman-online-desktop.843eb114.svg",
+    "static/media/illustration-woman-online-mobile.0ec5a893.svg": "/static/media/illustration-woman-online-mobile.0ec5a893.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a62d769.js",
+    "static/js/2.358e5108.chunk.js",
+    "static/css/main.8e7e80cf.chunk.css",
+    "static/js/main.efc0a4b4.chunk.js"
+  ]
+}
