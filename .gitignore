@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+*.sketch
+*.xd
+*.fig
+
+.DS_Store
+
+.prettierignore
+cypress/screenshots
+cypress/videos

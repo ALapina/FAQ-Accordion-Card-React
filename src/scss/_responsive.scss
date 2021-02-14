@@ -1,0 +1,61 @@
+@media only screen and (max-width: 800px) {
+  .illustration__woman-desktop {
+    max-width: 120%;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .container {
+    /* added padding here to mobile container,
+    so illustration__woman-desctop would not be cropped at the top */
+    padding-top: 105px;
+  }
+
+  .component {
+    max-width: 327px;
+    background-image: url(../images/bg-pattern-mobile.svg);
+    background-position: top;
+    flex-direction: column;
+  }
+
+  .illustration {
+    &__box {
+      display: none;
+    }
+
+    &__woman-desktop {
+      display: none;
+    }
+
+    &__woman-mobile {
+      display: block;
+      margin: 0 auto;
+      position: absolute;
+      top: -105px;
+      left: 12px;
+    }
+  }
+
+  .faq {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding-top: 132px;
+    padding-bottom: 48px;
+
+    &__question {
+      max-width: 279px;
+    }
+
+    &__question-button {
+      width: 279px;
+      font-size: 13px;
+      line-height: 13px;
+
+      &::after {
+        padding-right: 0px;
+      }
+    }
+  }
+}
