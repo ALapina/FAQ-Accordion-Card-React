@@ -38,5 +38,6 @@
   },
   "devDependencies": {
     "cypress": "^6.4.0"
-  }
+  },
+  "homepage": "/FAQ-Accordion-Card-React"
 }
